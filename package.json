@@ -1,0 +1,8 @@
+{
+  "name": "blocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Phonedolly/blocker.git",
+  "author": "Phonedolly <Phonedolly@users.noreply.github.com>",
+  "license": "MIT"
+}
